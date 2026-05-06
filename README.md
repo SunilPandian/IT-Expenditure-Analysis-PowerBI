@@ -157,13 +157,13 @@ Infrastructure-related functions consume substantial IT budget allocation.
 
 ## Executive Summary
 
-(Add screenshot here)
+![Executive Summary](dashboard_screenshots/Executive%20Summary.png)
 
 ---
 
 ## Detailed Variance Analysis
 
-(Add screenshot here)
+![Detailed Variance Analysis](dashboard_screenshots/Detailed%20Analysis.png)
 
 ---
 
